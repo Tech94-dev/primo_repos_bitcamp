@@ -1,2 +1,1 @@
-def somma(a,b):
-    return a+b
+def somma(a, b):\n    print('Somma in corso')\n    return a + b
