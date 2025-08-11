@@ -1,3 +1,3 @@
 #saluto.py
 def saluto():
-    return 'Ciao mondo!'
+    return 'Ciao dal ramo B!'
